@@ -71,7 +71,8 @@ Smart-PID-Heater-Controller/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── Smart-PID-Heater-Controller.ino
+└── docs/
+    └──Smart-PID-Heater-Controller.ino
 └── docs/
     ├── Smart-PID-Heater-Controller.png
     └──Smart-PID-Heater-Controller.pdf
