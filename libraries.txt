@@ -1,0 +1,5 @@
+# Library Name                      | Minimum Version | Source / Notes
+U8g2                                | >= 2.35.0       | Arduino Library Manager (by olikraus)
+max6675                             | >= 1.1.2        | Arduino Library Manager (by Adafruit)
+Encoder                             | >= 1.4.4        | Arduino Library Manager (by Paul Stoffregen)
+EEPROM                              | Built-in        | Arduino AVR Core Library
